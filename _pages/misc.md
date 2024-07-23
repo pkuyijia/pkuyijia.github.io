@@ -6,6 +6,6 @@ author_profile: true
 ---
 {% include base_path %}
 
-I'm a fan of various board games and chess games. My BGA account is *jyi2002* and it's always welcomed to add me and play board games together:) I also like to play poker and joint several poker tournament. (*Best: 1st over more than 150 participant in 2022*)
+I'm an avid fan of various board games and chess. My BGA account is *jyi2002*, and I'm always happy to connect and play together! I also enjoy playing poker and have participated in several tournaments, with my best achievement being 1st place out of over 150 participants in 2022. Additionally, I have a keen interest in Shuang Sheng and Mahjong.
 
-I like to play sports such as badminton and tennis, and I also like listening to songs and singing in my spare time.
+In my spare time, I love playing sports such as badminton and tennis. I also enjoy listening to music and singing.

@@ -8,7 +8,7 @@ author_profile: true
 
 ## Education
 
-+ B.S. in Statistics, double major in Economics, 2020-2024 (expected).
++ B.S. in Statistics, School of Mathematical Sciences, 2020-2024.
 + Visiting Undergraduate Student at Harvard college, 2023 Spring.
 
 ## Internship
@@ -19,4 +19,4 @@ author_profile: true
 
 ## Leadership
 
-+ **President**, Hedge Fund Association (HFA) of Peking University, 2023.9 - now.
++ **President**, Hedge Fund Association (HFA) of Peking University, 2023 - 2024.
